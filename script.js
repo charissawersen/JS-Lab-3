@@ -18,6 +18,7 @@ function addSubmissions(array, newName, newScore, newDate) {
     let newStudent = { name: newName, score: newScore, date: newDate, passed: passed, };
     array.push(newStudent);
 };
+
 // test function with dummy data: 
 // addSubmissions(submissions, 'Zelda', 80, '2020-11-12');
 // console.log(submissions);
