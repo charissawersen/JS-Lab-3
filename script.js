@@ -1,3 +1,4 @@
+// 1
 // name, score, date, passed are the objects
 //  Declare a variable named submissions that is initialized to an array with the following objects:
 const submissions = [
